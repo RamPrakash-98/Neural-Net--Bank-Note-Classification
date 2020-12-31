@@ -8,7 +8,7 @@ library(ggplot2)
 
 # Reading the csv file
 
-df<-read.csv("D:\\Udemy - Data Science and Machine Learning Bootcamp with R\\R-Course-HTML-Notes\\R-for-Data-Science-and-Machine-Learning\\Training Exercises\\Machine Learning Projects\\CSV files for ML Projects\\bank_note_data.csv")
+df<-read.csv("D:\\bank_note_data.csv")
 
 df<-as.data.frame(df)
 
